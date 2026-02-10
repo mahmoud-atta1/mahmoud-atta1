@@ -4,7 +4,7 @@
 
 <br/>
 
-<h3>Backend Engineer passionate about building scalable, secure APIs and clean architecture.</h3>
+<h3>Backend Developer passionate about building scalable, secure APIs and clean architecture.</h3>
 
 <p>
 I specialize in building scalable backend systems using Node.js, focusing on clean architecture, API performance, and efficient database design.
