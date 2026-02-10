@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=480&lines=Hi,+I'm+Mahmoud+Atta+👋;Software+Engineer;Backend+Developer;Node.js+%26+REST+APIs+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=480&lines=Hi,+I'm+Mahmoud+Atta+👋;Software+Engineer;Backend+Developer;Node.js+%26+🚀" alt="Typing SVG" />
 
 <br/>
 
@@ -13,20 +13,17 @@ I specialize in building scalable backend systems using Node.js, focusing on cle
 <br/>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mahmoud-atta1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=social&logo=linkedin" />
+  <a href="https://linkedin.com/in/mahmoud-atta1">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
-  <a href="https://facebook.com/MahM5Ud1" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=social&logo=facebook" />
+  <a href="https://facebook.com/MahM5Ud1">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  &nbsp;
   <a href="mailto:mahmoudatta484@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=social&logo=gmail" />
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<br/>
 
 ---
 
