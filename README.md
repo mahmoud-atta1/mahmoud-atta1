@@ -41,12 +41,20 @@ I specialize in building scalable backend systems using Node.js, focusing on cle
 
 ## 🧠 Core Competencies
 
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+
 ### 🛡️ Backend & Quality
 - Authentication & Authorization (JWT)
 - Clean Code & OOP Principles
 - REST API Security
 - HTTP / HTTPS Protocols
 - Problem Solving
+
+      </td>
+      <td width="50%" valign="top">
 
 ### 🚀 Professional Skills
 - Self-Learning & Continuous Improvement
@@ -55,6 +63,10 @@ I specialize in building scalable backend systems using Node.js, focusing on cle
 - Effective Communication
 - Strategic Thinking
 
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 💼 Professional Journey
 
