@@ -66,19 +66,3 @@ I specialize in building scalable backend systems using Node.js, focusing on cle
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud-atta1&show_icons=true&theme=github_dark&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-atta1&layout=compact&theme=github_dark&hide_border=true" height="180" />
-</div>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-atta1&theme=github-dark&hide_border=true" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=mahmoud-atta1&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</div>
