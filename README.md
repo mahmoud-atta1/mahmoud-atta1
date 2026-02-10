@@ -27,10 +27,10 @@ I specialize in building scalable backend systems using Node.js, focusing on cle
 
 ---
 
-## 💻 Tech Stack & Tools
+##  Tech Stack & Tools 💻
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,mysql,postman,git,github,docker&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,mysql,postman,git&perline=10" />
   <br/>
   <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,vscode&perline=10" />
 </p>
