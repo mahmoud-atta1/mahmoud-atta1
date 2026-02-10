@@ -7,7 +7,7 @@
 <h3>Backend Engineer passionate about building scalable, secure APIs and clean architecture.</h3>
 
 <p>
-I specialize in building scalable backend systems using Node.js, focusing on clean architecture, API performance, and efficient database design.</b>.
+I specialize in building scalable backend systems using Node.js, focusing on clean architecture, API performance, and efficient database design.
 </p>
 
 <br/>
@@ -22,7 +22,12 @@ I specialize in building scalable backend systems using Node.js, focusing on cle
   <a href="mailto:mahmoudatta484@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://wa.me/201128845254">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
+
+</div>
 
 
 ---
