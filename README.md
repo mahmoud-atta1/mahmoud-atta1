@@ -8,22 +8,22 @@
 
 <p>
 I focus on writing clean, maintainable code and designing efficient database models.<br>
-Specialized in <b>Node.js</b> environments and performance optimization.
+Specialized in <b>Node.js</b> environments with a strong foundation in <b>Data Structures & Algorithms</b>.
 </p>
 
 <br/>
 
 <p align="center">
   <a href="https://linkedin.com/in/mahmoud-atta1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=social&logo=linkedin" alt="LinkedIn">
   </a>
   &nbsp;
   <a href="https://facebook.com/MahM5Ud1" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=social&logo=facebook" alt="Facebook">
   </a>
   &nbsp;
   <a href="mailto:mahmoudatta484@gmail.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=social&logo=gmail" alt="Email">
   </a>
 </p>
 
@@ -31,24 +31,73 @@ Specialized in <b>Node.js</b> environments and performance optimization.
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,mysql,postman,git,github,docker&perline=10" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=cpp,cs,c,visualstudio,html,css,vscode&perline=10" />
   </a>
 </p>
 
 <br/>
 
-## 🧠 Core Skills
+## 🧠 Core Competencies
 
-| 🏗️ Architecture & Design | 🛡️ Security & Quality |
-|:---:|:---:|
-| **Backend Development (Node.js)** | **Authentication & Authorization (JWT)** |
-| **RESTful API Design** | **Clean Code & OOP** |
-| **MVC Architecture** | **HTTP / HTTPS Protocols** |
-| **Database Modeling** | **Problem Solving 🧩** |
+<table border="0" align="center" width="100%">
+  <tr border="0">
+    <td width="33%" align="left" valign="top" style="border: none;">
+      <h3 align="center">🏗️ Architecture</h3>
+      <ul>
+        <li>Backend Development (Node.js)</li>
+        <li>RESTful API Design</li>
+        <li>MVC Architecture</li>
+        <li>Database Modeling</li>
+        <li>System Design</li>
+      </ul>
+    </td>
+
+    <td width="33%" align="left" valign="top" style="border: none;">
+      <h3 align="center">🛡️ Quality & CS</h3>
+      <ul>
+        <li>Auth & Authorization (JWT)</li>
+        <li>Clean Code & OOP</li>
+        <li>Data Structures & Algorithms</li>
+        <li>HTTP / HTTPS Protocols</li>
+        <li>Problem Solving 🧩</li>
+      </ul>
+    </td>
+
+    <td width="33%" align="left" valign="top" style="border: none;">
+      <h3 align="center">🚀 Soft Skills</h3>
+      <ul>
+        <li>Strategic Planning</li>
+        <li>Time Management</li>
+        <li>Effective Communication</li>
+        <li>Self-Learning</li>
+        <li>Team Collaboration</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 💼 Professional Journey
+
+<table border="0" align="center">
+  <tr>
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://img.shields.io/badge/Education-El_Shorouk_Academy-blue?style=flat-square&logo=google-scholar&logoColor=white" /><br>
+      <i>Computer Science & Engineering</i>
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://img.shields.io/badge/Experience-IT_Legend-black?style=flat-square&logo=github&logoColor=white" /><br>
+      <i>Backend Developer</i>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
