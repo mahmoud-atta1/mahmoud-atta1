@@ -7,8 +7,7 @@
 <h3>Backend Engineer passionate about building scalable, secure APIs and clean architecture.</h3>
 
 <p>
-I focus on writing clean, maintainable code and designing efficient database models.<br/>
-Specialized in <b>Node.js</b> environments with a strong foundation in <b>Data Structures & Algorithms</b>.
+I specialize in building scalable backend systems using Node.js, focusing on clean architecture, API performance, and efficient database design.</b>.
 </p>
 
 <br/>
