@@ -32,10 +32,8 @@ I specialize in building scalable backend systems using Node.js, focusing on cle
 
 ---
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJ1bGZ4M3N2bXRhNnB5ZHVtZHFqM3k4Z3QxY3Y5c2ZzZWJtZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="40" />
-  Tech Stack & Tools
-</h2>
+<h2 align="center"> Tech Stack & Tools  💻</h2>
+
 
 
 <p align="center">
