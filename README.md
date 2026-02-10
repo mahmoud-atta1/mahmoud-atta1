@@ -63,22 +63,6 @@ I specialize in building scalable backend systems using Node.js, focusing on cle
   </tr>
 </table>
 
-## 💼 Professional Journey
-
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://img.shields.io/badge/Education-El_Shorouk_Academy-blue?style=flat-square" /><br/>
-      <i>Computer Science & Engineering</i>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://img.shields.io/badge/Experience-IT_Legend-black?style=flat-square" /><br/>
-      <i>Backend Developer (Node.js)</i>
-    </td>
-  </tr>
-</table>
-
-<br/>
 
 ---
 
