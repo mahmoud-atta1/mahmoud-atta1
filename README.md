@@ -45,46 +45,20 @@ Specialized in <b>Node.js</b> environments with a strong foundation in <b>Data S
 
 ## 🧠 Core Competencies
 
-<table align="center" width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">🏗️ Architecture</h3>
-      <ul>
-        <li>Backend Development (Node.js)</li>
-        <li>RESTful API Design</li>
-        <li>MVC Architecture</li>
-        <li>Database Modeling</li>
-        <li>Basic System Design</li>
-      </ul>
-    </td>
+### 🛡️ Backend & Quality
+- Authentication & Authorization (JWT)
+- Clean Code & OOP Principles
+- REST API Security
+- HTTP / HTTPS Protocols
+- Problem Solving
 
-    <td width="33%" valign="top">
-      <h3 align="center">🛡️ Quality & CS</h3>
-      <ul>
-        <li>Authentication & Authorization (JWT)</li>
-        <li>Clean Code & OOP</li>
-        <li>Data Structures & Algorithms</li>
-        <li>HTTP / HTTPS</li>
-        <li>Problem Solving</li>
-      </ul>
-    </td>
+### 🚀 Professional Skills
+- Self-Learning & Continuous Improvement
+- Team Collaboration
+- Time Management
+- Effective Communication
+- Strategic Thinking
 
-    <td width="33%" valign="top">
-      <h3 align="center">🚀 Professional Skills</h3>
-      <ul>
-        <li>Self-Learning</li>
-        <li>Time Management</li>
-        <li>Team Collaboration</li>
-        <li>Effective Communication</li>
-        <li>Strategic Thinking</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
----
 
 ## 💼 Professional Journey
 
