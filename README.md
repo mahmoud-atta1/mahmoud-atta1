@@ -32,7 +32,7 @@ I specialize in building scalable backend systems using Node.js, focusing on cle
 
 ---
 
-<h2 align="center">💻 Tech Stack & Tools</h2>
+<h2 align="center"> Tech Stack & Tools 💻</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,mysql,postman,git,&perline=10" />
