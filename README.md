@@ -1,71 +1,69 @@
-<div align="center">
+<!-- Hero Section -->
+<h1 align="center">Hi 👋, I'm Mahmoud Ahmed</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi,+I'm+Mahmoud+Ahmed+👋;Backend+Software+Engineer;Node.js+Specialist+🚀" alt="Typing SVG" />
-
-<br/>
-
-<h3>Backend Engineer passionate about building scalable, secure APIs and clean architecture.</h3>
-
-<p>
-I specialize in <b>Node.js</b> environments, focusing on performance optimization, <br>
-database modeling, and writing clean, maintainable code.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=Backend+Software+Engineer;Node.js+%7C+REST+APIs+%7C+MongoDB;Clean+Code+%26+Scalable+Systems" alt="Typing SVG" />
 </p>
 
-<br/>
-
-<a href="https://linkedin.com/in/mahmoud-atta1" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://facebook.com/MahM5Ud1" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
-</a>
-<a href="mailto:mahmoudatta484@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-<br/><br/>
+<p align="center">
+Backend Software Engineer passionate about building scalable and secure APIs.<br/>
+Focused on clean code, performance, and backend architecture.
+</p>
 
 ---
 
-## 💻 Tech Stack & Tools
-
+## 🌐 Connect with me
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,mysql,postgres,redis,postman,git,github,docker,linux&perline=7" />
-  </a>
+<a href="https://facebook.com/MahM5Ud1"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://linkedin.com/in/mahmoud-atta1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mahmoudatta484@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
-<br/>
-
-## 🧠 Core Competencies
-| Backend Engineering | Architecture & Quality |
-|:---:|:---:|
-| Node.js & Express.js | MVC & Microservices |
-| RESTful API Design | Clean Code & OOP |
-| Authentication (JWT/OAuth) | Database Modeling (SQL/NoSQL) |
-| Performance Tuning | CI/CD Pipelines |
-
-<br/>
 
 ---
 
-## 📊 GitHub Analytics
+<!-- Hidden / Advanced Section -->
+<details>
+<summary><strong>🛠 Tech Stack & Core Skills</strong></summary>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud-atta1&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-atta1&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="languages" />
-</div>
+### 💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<br/>
+### 🧠 Core Skills
+- Backend Development (Node.js)
+- RESTful API Design
+- MVC Architecture
+- Authentication & Authorization (JWT)
+- Database Modeling
+- Clean Code & OOP
+- HTTP / HTTPS
+- Problem Solving
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-atta1&theme=radical&hide_border=true&background=0D1117" alt="streak" />
-</div>
+</details>
 
-<br/>
+---
+
+<details>
+<summary><strong>📊 GitHub Stats</strong></summary>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahmoud-atta1&label=Profile%20Views&color=0e75b6&style=flat" alt="mahmoud-atta1" />
+<img src="https://github-readme-stats.vercel.app/api?username=mahmoud-atta1&show_icons=true&theme=github_dark&hide_border=true"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-atta1&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
-</div>
+</details>
+
+---
+
+<!-- Animation -->
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
