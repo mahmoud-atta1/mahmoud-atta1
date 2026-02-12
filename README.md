@@ -53,6 +53,8 @@ I specialize in building scalable backend systems using Node.js, focusing on cle
 
 <div align="center">
 
-⚡ High Performance APIs • 🧩 Clean Architecture • 🚀 Continuous Growth
+<img src="https://img.shields.io/badge/⚡_High_Performance_APIs-20C20E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧩_Clean_Architecture-20C20E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀_Continuous_Growth-20C20E?style=for-the-badge"/>
 
 </div>
