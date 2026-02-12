@@ -48,3 +48,11 @@ I specialize in building scalable backend systems using Node.js, focusing on cle
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,cpp,cs,html,css&perline=10" />
 </p>
+
+---
+
+<div align="center">
+
+⭐ Always learning • 🚀 Building APIs • 🔥 Node.js Backend Developer
+
+</div>
