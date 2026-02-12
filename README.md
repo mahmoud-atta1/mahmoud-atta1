@@ -53,6 +53,6 @@ I specialize in building scalable backend systems using Node.js, focusing on cle
 
 <div align="center">
 
-⚡ High Performance APIs • 🧩 Clean Architecture • 🚀 Continuous Growth
+ High Performance APIs⚡•  Clean Architecture 🧩 •  Continuous Growth 🚀
 
 </div>
