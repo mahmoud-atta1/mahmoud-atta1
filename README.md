@@ -31,10 +31,10 @@ I specialize in building scalable backend systems using Node.js, focusing on cle
 
 ---
 
-<h2 align="center">⚙️ Backend Stack</h2>
+<h2 align="center">💻 Tech Stack & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,npm,jwt,postman,git&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,npm,jwt,postman,git,html,css,vscode&perline=10" />
 </p>
 
 ---
@@ -43,20 +43,4 @@ I specialize in building scalable backend systems using Node.js, focusing on cle
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,cs&perline=10" />
-</p>
-
----
-
-<h2 align="center">🎨 Frontend Basics</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css&perline=10" />
-</p>
-
----
-
-<h2 align="center">🛠 Tools</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode&perline=10" />
 </p>
