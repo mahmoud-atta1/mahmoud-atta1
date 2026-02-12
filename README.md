@@ -38,7 +38,7 @@ I specialize in building scalable backend systems using Node.js, focusing on cle
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-as_a_Learning_Tool-111111?style=for-the-badge&labelColor=white&logo=openai&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AI-as_a_Learning_Tool-0A66C2?style=for-the-badge&labelColor=white&logo=openai&logoColor=black"/>
 </p>
 ---
 
