@@ -37,11 +37,10 @@ I specialize in building scalable backend systems using Node.js, focusing on cle
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,postman,git,jwt,npm,jwt&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,postman,git,npm,jwt&perline=10" />
   <br/>
   <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,vscode&perline=10" />
 </p>
-
 
 
 
