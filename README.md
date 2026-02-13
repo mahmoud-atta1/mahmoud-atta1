@@ -2,15 +2,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=480&lines=Hi,+I'm+Mahmoud+Atta+👋;Software+Engineer;Backend+Developer;Node.js🚀" alt="Typing SVG" />
 
-<br/>
+<h3>
+Backend Developer focused on scalable APIs, clean architecture, and high-performance Node.js systems.
+</h3>
 
-<h3>Backend Developer passionate about building scalable, secure APIs and clean architecture.</h3>
-
-<p>
-I specialize in building scalable backend systems using Node.js, focusing on clean architecture, API performance, and efficient database design.
-</p>
-
-<br/>
 
 <p align="center">
   <a href="https://linkedin.com/in/mahmoud-atta1">
