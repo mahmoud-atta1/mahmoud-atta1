@@ -6,7 +6,6 @@
 Backend Developer focused on scalable APIs, clean architecture, and high-performance Node.js systems
 </h3>
 
-
 <p align="center">
   <a href="https://linkedin.com/in/mahmoud-atta1">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -29,7 +28,7 @@ Backend Developer focused on scalable APIs, clean architecture, and high-perform
 <h2 align="center"> Tech Stack & Tools 💻</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,npm,postman,git,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,npm,postman,git,vscode&perline=10" />
 </p>
 
 <p align="center">
@@ -48,6 +47,6 @@ Backend Developer focused on scalable APIs, clean architecture, and high-perform
 
 <div align="center">
 
- High Performance APIs⚡•  Clean Architecture 🧩 •  Continuous Growth 🚀
+High Performance APIs ⚡ • Clean Architecture 🧩 • Continuous Growth 🚀
 
 </div>
