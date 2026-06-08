@@ -28,7 +28,7 @@ Backend Developer focused on scalable APIs, clean architecture, and high-perform
 <h2 align="center"> Tech Stack & Tools 💻</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,npm,postman,git,vscode&perline=10" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb,postgres,npm,postman,git,vscode&perline=10" />
 </p>
 
 <p align="center">
