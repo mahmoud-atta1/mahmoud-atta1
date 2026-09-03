@@ -28,7 +28,23 @@ Backend Developer focused on scalable APIs, clean architecture, and high-perform
 <h2 align="center">Tech Stack & Tools 💻</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb,postgres,mongoose,docker,swagger,npm,postman,git,vscode&perline=12" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb,postgres,docker,firebase,npm,postman,git,vscode&perline=11" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Sharp-99CC00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Multer-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RBAC-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MVC-000000?style=for-the-badge"/>
 </p>
 
 <p align="center">
@@ -48,19 +64,19 @@ Backend Developer focused on scalable APIs, clean architecture, and high-perform
 <h2 align="center">Backend & Security 🔐</h2>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/RESTful_APIs-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/RBAC-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MVC-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Testing-000000?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/RESTful_APIs-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RBAC-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MVC_Architecture-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Middleware-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Error_Handling-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API_Testing-000000?style=for-the-badge"/>
 </p>
 
 ---
 
 <div align="center">
 
-High Performance APIs ⚡ • Clean Architecture 🧩 • Continuous Growth 🚀
+High Performance APIs ⚡ • Clean Architecture 🧩 • Secure Backend 🔐 • Continuous Growth 🚀
 
 </div>
