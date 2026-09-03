@@ -61,8 +61,8 @@ Backend Developer focused on scalable APIs, clean architecture, and high-perform
 
 ---
 
-<div align="center">
-
-High Performance APIs ⚡ • Clean Architecture 🧩 • Continuous Growth 🚀
-
+<div align="center"> 
+ 
+High Performance APIs ⚡ • Clean Architecture 🧩 • Security 🔐 • Continuous Growth 🚀
+ 
 </div>
