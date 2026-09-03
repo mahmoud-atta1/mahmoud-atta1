@@ -28,7 +28,7 @@ Backend Developer focused on scalable APIs, clean architecture, and high-perform
 <h2 align="center">Tech Stack & Tools 💻</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb,postgres,docker,firebase,npm,postman,git,vscode&perline=11" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb,postgres,docker,npm,postman,git,vscode&perline=10" />
 </p>
 
 <p align="center">
@@ -61,22 +61,8 @@ Backend Developer focused on scalable APIs, clean architecture, and high-perform
 
 ---
 
-<h2 align="center">Backend & Security 🔐</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/RESTful_APIs-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RBAC-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MVC_Architecture-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Middleware-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Error_Handling-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/API_Testing-000000?style=for-the-badge"/>
-</p>
-
----
-
 <div align="center">
 
-High Performance APIs ⚡ • Clean Architecture 🧩 • Secure Backend 🔐 • Continuous Growth 🚀
+High Performance APIs ⚡ • Clean Architecture 🧩 • Continuous Growth 🚀
 
 </div>
